@@ -15,6 +15,7 @@
         .canva{
             background: yellow;
             width: 100vw;
+            height: 80vh;
             position: relative;
             margin: auto;
             overflow: hidden;
