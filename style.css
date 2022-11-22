@@ -57,7 +57,7 @@
             padding: 10px;
             font-size: 20px;
         }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 500px) {
   .canva{
     width: 500px;
   }
