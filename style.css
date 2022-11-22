@@ -60,5 +60,6 @@
 @media only screen and (max-width: 500px) {
   .canva{
     width: 500px;
+    background: gray;
   }
 }
