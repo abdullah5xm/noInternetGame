@@ -8,10 +8,7 @@
         body{
           height: 100vh;
         }
-.full{
-  height: 100%;
-}
-
+        
         .canva{
             background: yellow;
             width: 100vw;
