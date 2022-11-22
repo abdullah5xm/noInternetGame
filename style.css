@@ -53,3 +53,7 @@
         .buttons{
             text-align: center;
         }
+       .buttons input{
+            padding: 10px;
+            font-size: 20px;
+        }
